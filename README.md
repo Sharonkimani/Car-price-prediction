@@ -22,5 +22,5 @@ The project aimed to deliver accurate car price predictions based on the develop
 The best model had an R-squared of 99.999999%.
 
 ## Contributors
-- [Sharon   Kimani]((https://github.com/Sharonkimani))
+- [Sharon   Kimani](https://github.com/Sharonkimani)
 
